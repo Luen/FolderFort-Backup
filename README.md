@@ -1,11 +1,19 @@
 # FolderFort Backup
+
 Use Folder Forts API to backup drive.
 
-## TODO:
+## Prerequisites
 
-- Error Handling: Add more robust error handling as needed.
+Install jq for JSON parsing:
+
+`sudo apt-get install jq`
+
+Install mail (if not already installed):
+
+`sudo apt-get install mailutils`
 
 ## Usage
+
 ### Make the Script Executable
 
 `chmod +x /path/to/your/backup_to_folderfort.sh`
