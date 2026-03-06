@@ -1,3 +1,5 @@
+THIS PROJECT IS DEPRECATED: REPLACED WITH [Luen/BeDrive-FolderFort-Sync](https://github.com/Luen/BeDrive-FolderFort-Sync)
+
 # FolderFort Backup
 
 Use Folder Forts API to backup drive.
